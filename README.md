@@ -2,7 +2,14 @@
 Exemplo de autenticação entre APIs com login por senha usando autenticação via AZURE AD
 
 Pacotes necessários:
-API Cliente
-  Microsoft.Identity.Client
-API Serviço
-  Microsot.Identity.Web
+<dl>
+  <dt>API Cliente</dt>
+  <dd>Microsoft.Identity.Client</dd>
+  <dt>API Serviço</dt>
+  <dd>Microsot.Identity.Web</dd>
+<dl>
+    
+  
+  
+
+  
